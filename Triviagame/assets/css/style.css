@@ -1,6 +1,6 @@
 body {
 
-    background-image: url(".../images/backgroundImage.jpg");      
+    background-image: url("../images/backgroundImage.jpg");      
 
 }
 
@@ -93,6 +93,6 @@ header {
 }
 #picture {
 
-    height: 400px;
+    max-height: 400px;
 
 }
